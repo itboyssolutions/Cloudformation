@@ -3,4 +3,4 @@ Resources:
   myfirsts3:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: "itboysfirsts3bucket"
+      BucketName: "itboysfirsts3bucketdemo"
